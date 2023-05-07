@@ -1,0 +1,48 @@
+<label for="" class="form-label fw-bold">Transfer Via Bank</label>
+                            <div class="row">
+                                <div class="col-md-4 col-4 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/bank-logo-bri.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-4 col-4 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/bank-logo-bni.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-4 col-4 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/bank-logo-bca.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-4 col-4 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/bank-logo-jatim.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-4 col-4 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/bank-logo-mandiri.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-4 col-4 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/bank-logo-bsi.png"
+                                            width="100%" alt=""></a></div>
+                            </div>
+                            <label for="" class="form-label fw-bold mt-3">Transfer Via E-Wallet</label>
+                            <div class="row">
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-shopeepay.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-gopay.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-dana.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-ovo.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-linkaja.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-flip.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-doku.png"
+                                            width="100%" alt=""></a></div>
+                                <div class="col-md-3 col-3 mb-3"><a href="#" class="d-block"
+                                        onclick="alert_payment_error()"><img src="/assets/img/ewallet-isaku.png"
+                                            width="100%" alt=""></a></div>
+                            </div>

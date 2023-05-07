@@ -1,0 +1,14 @@
+main .row .col-md-6 #img-login {
+  height: 100vh;
+  background-image: url('../img/login-img.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 70%;
+}
+main .row .col-md-6 #img-register {
+  height: 100vh;
+  background-image: url('../img/register-img.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 70%;
+}
